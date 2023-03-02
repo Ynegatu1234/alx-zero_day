@@ -1,0 +1,3 @@
+Collaboration is cool, but not really when you update the same file at the same time…
+
+To illustrate that, please merge the branch update_script to main: “Cool, all my changes will be now part of the main branch, ready to be deployed!”
